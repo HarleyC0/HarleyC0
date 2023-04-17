@@ -1,23 +1,25 @@
-# Hola, soy [Harley Contreras]
+<h1 align="center">Hi 👋, I'm Harley Contreras</h1>
+<h3 align="center">A passionate frontend developer from Colombia; I love aesthetics, symmetry and creativity. I always seek to learn and grow.</h3>
 
-## Acerca de mí
-Soy un desarrollador web frontend autodidacta y apasionado por la tecnología. Me gusta aprender cosas nuevas y enfrentar desafíos en mi carrera profesional.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harleyc0" alt="harleyc0" /></a> </p>
 
-## Habilidades
-- HTML
-- CSS
-- JavaScript
-- SASS
-- React
-- MySQL
+- 🔭 I’m currently working on [Task Control](https://harleyc0.github.io/React-Project_Task/)
 
-## Proyectos
-- [Repositorio](https://harleyc0.github.io)
-- [Control-Tareas](https://harleyc0.github.io/React-Project_Task/)
-- [Base-Datos-Metro](https://github.com/HarleyC0/MySQL-Database-Metro-CDMX)
+- 🌱 I’m currently learning **Java, React,**
 
-## Contacto
-- LinkedIn: [Harley Contreras](https://www.linkedin.com/in/harley-contreras-81818725b/)
-- Correo electrónico: [gerson_harley@hotmail.com]
+- 👨‍💻 All of my projects are available at [https://harleyc0.github.io](https://harleyc0.github.io)
 
-¡Gracias por visitar mi perfil de GitHub!
+- 📫 How to reach me **gerson_harley@hotmail.com**
+
+- ⚡ Fun fact **I like video games, but I can't get out of bronze.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harley contreras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harley contreras" height="30" width="40" /></a>
+<a href="https://discord.gg/HarleyC#4559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HarleyC#4559" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harleyc0&show_icons=true&locale=en" alt="harleyc0" /></p>
