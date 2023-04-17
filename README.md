@@ -1,4 +1,4 @@
-# Hola, soy [HarleyContreras]
+# Hola, soy [Harley Contreras]
 
 ## Acerca de mí
 Soy un desarrollador web frontend autodidacta y apasionado por la tecnología. Me gusta aprender cosas nuevas y enfrentar desafíos en mi carrera profesional.
@@ -7,16 +7,17 @@ Soy un desarrollador web frontend autodidacta y apasionado por la tecnología. M
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
+- SASS
 - React
+- MySQL
 
 ## Proyectos
-- [Proyecto 1](enlace al repositorio)
-- [Proyecto 2](enlace al repositorio)
-- [Proyecto 3](enlace al repositorio)
+- [Repositorio](https://harleyc0.github.io)
+- [Control-Tareas](https://harleyc0.github.io/React-Project_Task/)
+- [Base-Datos-Metro](https://github.com/HarleyC0/MySQL-Database-Metro-CDMX)
 
 ## Contacto
-- LinkedIn: [tu perfil de LinkedIn](enlace a tu perfil de LinkedIn)
-- Correo electrónico: [tu correo electrónico](tu correo electrónico aquí)
+- LinkedIn: [Harley Contreras](https://www.linkedin.com/in/harley-contreras-81818725b/)
+- Correo electrónico: [gerson_harley@hotmail.com]
 
 ¡Gracias por visitar mi perfil de GitHub!
